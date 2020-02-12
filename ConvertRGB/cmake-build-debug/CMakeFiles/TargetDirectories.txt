@@ -1,0 +1,3 @@
+/Users/wangjiahui/Desktop/Concordia/ComputerVision/AssignmentOne_JiahuiWang_40070981/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wangjiahui/Desktop/Concordia/ComputerVision/AssignmentOne_JiahuiWang_40070981/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wangjiahui/Desktop/Concordia/ComputerVision/AssignmentOne_JiahuiWang_40070981/cmake-build-debug/CMakeFiles/CVH1.dir
